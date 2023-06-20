@@ -1,1 +1,11 @@
 
+{
+  "Visibility": "VISIBLE",
+  "Title": "Update available",
+  "Description": "Diamonds Tools recommends that you update the Latest Version. Fix Some Bugs And Added new quiz.",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.quiz.diamonds",
+  "Version": "1.1"
+}
